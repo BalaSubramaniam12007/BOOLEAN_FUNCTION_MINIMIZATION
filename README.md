@@ -50,7 +50,9 @@ assign f2=((~y&z)|(x&y)|(w&y));
 endmodule
 
 **RTL realization**
+
 1.![alt text](<Screenshot 2024-11-26 115128.png>)
+
 2.![alt text](<Screenshot 2024-11-26 113958.png>)
 
 **Output:**
